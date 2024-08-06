@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Mariam-Hossam
 A recent graduate of Computer Science with a passion for data analysis. Possesses strong problem-solving skills, a solid foundation in Object-Oriented Programming (OOP) and data structures, and a keen interest in extracting insights from data.
