@@ -1,8 +1,9 @@
 
 
 # Mariam-Hossam
-A recent graduate of Computer Science with a passion for data analysis. Possesses strong problem-solving skills, a solid foundation in Object-Oriented Programming (OOP) and data structures, and a keen interest in extracting insights from data.
-
+I am a recent graduate of computer science with a passion for data analysis. proficient in Python, SQL and Excel. Skilled in data visualization using tools such as Matplotlib and Power BI, with expertise in statistical analysis
+and problem-solving. Dedicated to continuous learning and leveraging data-driven insights for impactful solutions.
+highly motivated and results-driven professional seeking a data analyst position.
 
 
 <h3 align="center">
