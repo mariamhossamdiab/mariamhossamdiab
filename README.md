@@ -8,11 +8,6 @@ highly motivated and results-driven professional seeking a data analyst position
 
 <h3 align="center">
   Welcome to Mariam's profile!
-
-https://github.com/user-attachments/assets/3afa033e-36b2-4105-9e32-97f241de67ff
-
-
-   <img src="" width="28">
 </h3>
 
 
