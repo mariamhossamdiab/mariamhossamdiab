@@ -5,7 +5,7 @@ I am a recent graduate of computer science with a passion for data analysis. pro
 and problem-solving. Dedicated to continuous learning and leveraging data-driven insights for impactful solutions.
 highly motivated and results-driven professional seeking a data analyst position.
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVlYjBqb2hkeGFuMnZ6YW5ybG9pZWljMnh2bW9vZjJycDA3a2JvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lALFfGN9hT4sbeUkN9/giphy.gif
+
 <h3 align="center">
   Welcome to Mariam's profile!
 </h3>
