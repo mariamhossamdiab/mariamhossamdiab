@@ -22,17 +22,17 @@ highly motivated and results-driven professional seeking a data analyst position
 
 # Skills:
 
-Languages: C++, Python, SQL
-Databases: SQL Server
-NoSQL: MongoDB
-Big Data : Apache Hadoop , Apache Spark , Apache Kafka
-ETL: SSIS , Talend
-Tools: Apache Airflow , Linux , Docker , Jenkins
-Concepts: OOP, Data warehousing , Big Data
-Cloud Computing: AWS ( IAM , S3, EC2,VPCs , Lambda )
-Python: NumPy , Pandas , Matplotlib
-Web Scraping: BeautifulSoup , Selenium
-Data Visualization : Microsoft Excel , Power BI , Tableau
+* Languages: C++, Python, SQL
+* Databases: SQL Server
+* NoSQL: MongoDB
+* Big Data : Apache Hadoop , Apache Spark , Apache Kafka
+* ETL: SSIS , Talend
+* Tools: Apache Airflow , Linux , Docker , Jenkins
+* Concepts: OOP, Data warehousing , Big Data
+* Cloud Computing: AWS ( IAM , S3, EC2,VPCs , Lambda )
+* Python: NumPy , Pandas , Matplotlib
+* Web Scraping: BeautifulSoup , Selenium
+*  Data Visualization : Microsoft Excel , Power BI , Tableau
 
 
 
